@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "backbone": "~1.1.0",
+    "express": "~3.4.8",
+    "jsdom": "~0.10.0",
+    "jquery": "~2.1.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "browserify": "~3.24.13",
+    "gulp-browserify": "~0.4.2"
+  }
+}
